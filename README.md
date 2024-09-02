@@ -1,1 +1,1 @@
-# odin-recipes
+# this is my first odin project where i will put my skills to test by building a basic recipe website
